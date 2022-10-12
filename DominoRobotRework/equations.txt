@@ -1,0 +1,2 @@
+﻿"pin_hole_height"=9
+"pin_hole_width"=3.65
