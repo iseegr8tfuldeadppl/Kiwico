@@ -1,0 +1,338 @@
+{
+  "CE3MAX_axis.gcode": {
+    "analysis": {
+      "printingArea": {
+        "maxX": 204.8,
+        "maxY": 200.0,
+        "maxZ": 6.8,
+        "minX": 0.1,
+        "minY": 20.0,
+        "minZ": 0.0
+      },
+      "dimensions": {
+        "depth": 180.0,
+        "height": 6.8,
+        "width": 204.70000000000002
+      },
+      "estimatedPrintTime": 1241.8042051364603,
+      "filament": {
+        "tool0": {
+          "length": 998.4730799999992,
+          "volume": 0.0
+        }
+      }
+    }
+  },
+  "CE3MAX_back-wall-n.gcode": {
+    "analysis": {
+      "printingArea": {
+        "maxX": 210.8,
+        "maxY": 200.0,
+        "maxZ": 3.6,
+        "minX": 0.1,
+        "minY": 20.0,
+        "minZ": 0.0
+      },
+      "dimensions": {
+        "depth": 180.0,
+        "height": 3.6,
+        "width": 210.70000000000002
+      },
+      "estimatedPrintTime": 8591.040177112925,
+      "filament": {
+        "tool0": {
+          "length": 6822.50267999998,
+          "volume": 0.0
+        }
+      }
+    }
+  },
+  "CE3MAX_big-gear.gcode": {
+    "analysis": {
+      "printingArea": {
+        "maxX": 193.814,
+        "maxY": 200.0,
+        "maxZ": 20.4,
+        "minX": 0.1,
+        "minY": 20.0,
+        "minZ": 0.0
+      },
+      "dimensions": {
+        "depth": 180.0,
+        "height": 20.4,
+        "width": 193.714
+      },
+      "estimatedPrintTime": 3451.629053125426,
+      "filament": {
+        "tool0": {
+          "length": 4183.970099999996,
+          "volume": 0.0
+        }
+      }
+    }
+  },
+  "CE3MAX_floor.gcode": {
+    "analysis": {
+      "printingArea": {
+        "maxX": 170.3,
+        "maxY": 210.3,
+        "maxZ": 3.6,
+        "minX": 0.1,
+        "minY": 20.0,
+        "minZ": 0.0
+      },
+      "dimensions": {
+        "depth": 190.3,
+        "height": 3.6,
+        "width": 170.20000000000002
+      },
+      "estimatedPrintTime": 2528.9973242233596,
+      "filament": {
+        "tool0": {
+          "length": 2027.5264100000009,
+          "volume": 0.0
+        }
+      }
+    }
+  },
+  "CE3MAX_left-most-wall.gcode": {
+    "analysis": {
+      "printingArea": {
+        "maxX": 226.6,
+        "maxY": 200.0,
+        "maxZ": 3.6,
+        "minX": 0.1,
+        "minY": 20.0,
+        "minZ": 0.0
+      },
+      "dimensions": {
+        "depth": 180.0,
+        "height": 3.6,
+        "width": 226.5
+      },
+      "estimatedPrintTime": 7383.677642594534,
+      "filament": {
+        "tool0": {
+          "length": 5958.989049999993,
+          "volume": 0.0
+        }
+      }
+    }
+  },
+  "CE3MAX_left-wall.gcode": {
+    "analysis": {
+      "printingArea": {
+        "maxX": 217.3,
+        "maxY": 200.0,
+        "maxZ": 3.6,
+        "minX": 0.1,
+        "minY": 20.0,
+        "minZ": 0.0
+      },
+      "dimensions": {
+        "depth": 180.0,
+        "height": 3.6,
+        "width": 217.20000000000002
+      },
+      "estimatedPrintTime": 7086.097050533507,
+      "filament": {
+        "tool0": {
+          "length": 5668.671060000034,
+          "volume": 0.0
+        }
+      }
+    }
+  },
+  "CE3MAX_leftest-most-wall.gcode": {
+    "analysis": {
+      "printingArea": {
+        "maxX": 226.6,
+        "maxY": 200.0,
+        "maxZ": 3.6,
+        "minX": 0.1,
+        "minY": 20.0,
+        "minZ": 0.0
+      },
+      "dimensions": {
+        "depth": 180.0,
+        "height": 3.6,
+        "width": 226.5
+      },
+      "estimatedPrintTime": 9081.77825224967,
+      "filament": {
+        "tool0": {
+          "length": 7401.382959999981,
+          "volume": 0.0
+        }
+      }
+    }
+  },
+  "CE3MAX_myBevelMarkedGear.gcode": {
+    "analysis": {
+      "printingArea": {
+        "maxX": 177.594,
+        "maxY": 200.0,
+        "maxZ": 44.6,
+        "minX": 0.1,
+        "minY": 20.0,
+        "minZ": 0.0
+      },
+      "dimensions": {
+        "depth": 180.0,
+        "height": 44.6,
+        "width": 177.494
+      },
+      "estimatedPrintTime": 4447.49112177143,
+      "filament": {
+        "tool0": {
+          "length": 3142.5078699999954,
+          "volume": 0.0
+        }
+      }
+    }
+  },
+  "CE3MAX_mySquashedBevelMarkedGear.gcode": {
+    "analysis": {
+      "printingArea": {
+        "maxX": 168.653,
+        "maxY": 200.0,
+        "maxZ": 25.8,
+        "minX": 0.1,
+        "minY": 20.0,
+        "minZ": 0.0
+      },
+      "dimensions": {
+        "depth": 180.0,
+        "height": 25.8,
+        "width": 168.553
+      },
+      "estimatedPrintTime": 2398.219880893399,
+      "filament": {
+        "tool0": {
+          "length": 1840.5426400000053,
+          "volume": 0.0
+        }
+      }
+    }
+  },
+  "CE3MAX_righ-most-wall.gcode": {
+    "analysis": {
+      "printingArea": {
+        "maxX": 226.5,
+        "maxY": 200.0,
+        "maxZ": 3.6,
+        "minX": 0.1,
+        "minY": 20.0,
+        "minZ": 0.0
+      },
+      "dimensions": {
+        "depth": 180.0,
+        "height": 3.6,
+        "width": 226.4
+      },
+      "estimatedPrintTime": 9485.176268556163,
+      "filament": {
+        "tool0": {
+          "length": 7622.359779999987,
+          "volume": 0.0
+        }
+      }
+    }
+  },
+  "CE3MAX_right-wall.gcode": {
+    "analysis": {
+      "printingArea": {
+        "maxX": 217.3,
+        "maxY": 200.0,
+        "maxZ": 3.6,
+        "minX": 0.1,
+        "minY": 20.0,
+        "minZ": 0.0
+      },
+      "dimensions": {
+        "depth": 180.0,
+        "height": 3.6,
+        "width": 217.20000000000002
+      },
+      "estimatedPrintTime": 7074.944177092172,
+      "filament": {
+        "tool0": {
+          "length": 5621.812529999983,
+          "volume": 0.0
+        }
+      }
+    }
+  },
+  "CE3MAX_separator.gcode": {
+    "analysis": {
+      "printingArea": {
+        "maxX": 176.3,
+        "maxY": 200.0,
+        "maxZ": 3.6,
+        "minX": 0.1,
+        "minY": 20.0,
+        "minZ": 0.0
+      },
+      "dimensions": {
+        "depth": 180.0,
+        "height": 3.6,
+        "width": 176.20000000000002
+      },
+      "estimatedPrintTime": 2683.19454173228,
+      "filament": {
+        "tool0": {
+          "length": 2135.6445900000012,
+          "volume": 0.0
+        }
+      }
+    }
+  },
+  "more.gcode": {
+    "analysis": {
+      "printingArea": {
+        "maxX": 210.8,
+        "maxY": 243.021,
+        "maxZ": 17.2,
+        "minX": 0.1,
+        "minY": 20.0,
+        "minZ": 0.0
+      },
+      "dimensions": {
+        "depth": 223.021,
+        "height": 17.2,
+        "width": 210.70000000000002
+      },
+      "estimatedPrintTime": 14791.254816459115,
+      "filament": {
+        "tool0": {
+          "length": 11661.174240000042,
+          "volume": 0.0
+        }
+      }
+    }
+  },
+  "rest.gcode": {
+    "analysis": {
+      "printingArea": {
+        "maxX": 234.156,
+        "maxY": 256.228,
+        "maxZ": 25.8,
+        "minX": 0.1,
+        "minY": 20.0,
+        "minZ": 0.0
+      },
+      "dimensions": {
+        "depth": 236.228,
+        "height": 25.8,
+        "width": 234.056
+      },
+      "estimatedPrintTime": 19625.03609695005,
+      "filament": {
+        "tool0": {
+          "length": 15375.03370999991,
+          "volume": 0.0
+        }
+      }
+    }
+  }
+}

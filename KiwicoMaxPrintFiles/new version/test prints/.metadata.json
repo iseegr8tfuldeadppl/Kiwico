@@ -1,0 +1,136 @@
+{
+  "CE3MAX_small_wheel_axis.gcode": {
+    "hash": "7dabf68371653cc1add67b41cfc2bc9bbc3ec046",
+    "analysis": {
+      "printingArea": {
+        "maxX": 159.775,
+        "maxY": 200.0,
+        "maxZ": 3.96,
+        "minX": 0.1,
+        "minY": 20.0,
+        "minZ": 0.0
+      },
+      "dimensions": {
+        "depth": 180.0,
+        "height": 3.96,
+        "width": 159.675
+      },
+      "estimatedPrintTime": 182.99205504249795,
+      "filament": {
+        "tool0": {
+          "length": 134.3715999999998,
+          "volume": 0.0
+        }
+      }
+    },
+    "history": [
+      {
+        "timestamp": 1664370914.913769,
+        "success": false,
+        "printerProfile": "_default"
+      },
+      {
+        "timestamp": 1664371359.2688885,
+        "printTime": 249.23399999999674,
+        "success": true,
+        "printerProfile": "_default"
+      }
+    ],
+    "statistics": {
+      "averagePrintTime": {
+        "_default": 249.23399999999674
+      },
+      "lastPrintTime": {
+        "_default": 249.23399999999674
+      }
+    }
+  },
+  "CE3MAX_tiny_wheel_hole.gcode": {
+    "hash": "c67409a682b2afceb3ba7ccba164519582ae63ff",
+    "analysis": {
+      "printingArea": {
+        "maxX": 156.073,
+        "maxY": 200.0,
+        "maxZ": 3.28,
+        "minX": 0.1,
+        "minY": 20.0,
+        "minZ": 0.0
+      },
+      "dimensions": {
+        "depth": 180.0,
+        "height": 3.28,
+        "width": 155.973
+      },
+      "estimatedPrintTime": 190.67649122049207,
+      "filament": {
+        "tool0": {
+          "length": 166.37007999999952,
+          "volume": 0.0
+        }
+      }
+    },
+    "history": [
+      {
+        "timestamp": 1664374875.7163403,
+        "printTime": 346.2029999999795,
+        "success": true,
+        "printerProfile": "_default"
+      }
+    ],
+    "statistics": {
+      "averagePrintTime": {
+        "_default": 346.2029999999795
+      },
+      "lastPrintTime": {
+        "_default": 346.2029999999795
+      }
+    }
+  },
+  "CE3MAX_insertion_and_hole.gcode": {
+    "hash": "a1361a9c5782d0e5d4eb0520952512416ce7be57",
+    "analysis": {
+      "printingArea": {
+        "maxX": 164.775,
+        "maxY": 200.0,
+        "maxZ": 3.6,
+        "minX": 0.1,
+        "minY": 20.0,
+        "minZ": 0.0
+      },
+      "dimensions": {
+        "depth": 180.0,
+        "height": 3.6,
+        "width": 164.675
+      },
+      "estimatedPrintTime": 588.0574602403352,
+      "filament": {
+        "tool0": {
+          "length": 948.5704099999997,
+          "volume": 0.0
+        }
+      }
+    },
+    "history": [
+      {
+        "timestamp": 1665579159.452784,
+        "printTime": 1005.25,
+        "success": true,
+        "printerProfile": "_default"
+      },
+      {
+        "timestamp": 1665674599.0909312,
+        "printTime": 946.0470000000059,
+        "success": true,
+        "printerProfile": "_default"
+      }
+    ],
+    "statistics": {
+      "averagePrintTime": {
+        "_default": 975.648500000003
+      },
+      "lastPrintTime": {
+        "_default": 946.0470000000059
+      }
+    }
+  }
+}

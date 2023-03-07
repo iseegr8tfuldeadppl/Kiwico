@@ -1,0 +1,125 @@
+{
+  "axis_and_hole.gcode": {
+    "hash": "3ce23e8defe5b5301dd2c251b2308fbb2daf9b12",
+    "analysis": {
+      "printingArea": {
+        "maxX": 161.743,
+        "maxY": 200.0,
+        "maxZ": 8.2,
+        "minX": 0.1,
+        "minY": 20.0,
+        "minZ": 0.0
+      },
+      "dimensions": {
+        "depth": 180.0,
+        "height": 8.2,
+        "width": 161.643
+      },
+      "estimatedPrintTime": 699.0849776942898,
+      "filament": {
+        "tool0": {
+          "length": 681.9768899999995,
+          "volume": 0.0
+        }
+      }
+    },
+    "history": [
+      {
+        "timestamp": 1658756083.7501504,
+        "printTime": 934.5469999999987,
+        "success": true,
+        "printerProfile": "_default"
+      }
+    ],
+    "statistics": {
+      "averagePrintTime": {
+        "_default": 934.5469999999987
+      },
+      "lastPrintTime": {
+        "_default": 934.5469999999987
+      }
+    }
+  },
+  "CE3MAX_insertion_and_hole.gcode": {
+    "hash": "c324c14c7f0e4eea6a33d82704e87da304301b2e",
+    "analysis": {
+      "printingArea": {
+        "maxX": 161.3,
+        "maxY": 200.0,
+        "maxZ": 3.6,
+        "minX": 0.1,
+        "minY": 20.0,
+        "minZ": 0.0
+      },
+      "dimensions": {
+        "depth": 180.0,
+        "height": 3.6,
+        "width": 161.20000000000002
+      },
+      "estimatedPrintTime": 340.5139358083831,
+      "filament": {
+        "tool0": {
+          "length": 255.65366999999995,
+          "volume": 0.0
+        }
+      }
+    },
+    "history": [
+      {
+        "timestamp": 1663516881.8383315,
+        "printTime": 607.75,
+        "success": true,
+        "printerProfile": "_default"
+      }
+    ],
+    "statistics": {
+      "averagePrintTime": {
+        "_default": 607.75
+      },
+      "lastPrintTime": {
+        "_default": 607.75
+      }
+    }
+  },
+  "CE3MAX_motorShaftFemaleTest.gcode": {
+    "hash": "131e220df8bbcba8011b569887661f46823df743",
+    "analysis": {
+      "printingArea": {
+        "maxX": 154.65,
+        "maxY": 200.0,
+        "maxZ": 9.6,
+        "minX": 0.1,
+        "minY": 20.0,
+        "minZ": 0.0
+      },
+      "dimensions": {
+        "depth": 180.0,
+        "height": 9.6,
+        "width": 154.55
+      },
+      "estimatedPrintTime": 520.3021988517864,
+      "filament": {
+        "tool0": {
+          "length": 268.25039000000106,
+          "volume": 0.0
+        }
+      }
+    },
+    "history": [
+      {
+        "timestamp": 1663536300.2304096,
+        "printTime": 678.0320000000065,
+        "success": true,
+        "printerProfile": "_default"
+      }
+    ],
+    "statistics": {
+      "averagePrintTime": {
+        "_default": 678.0320000000065
+      },
+      "lastPrintTime": {
+        "_default": 678.0320000000065
+      }
+    }
+  }
+}
